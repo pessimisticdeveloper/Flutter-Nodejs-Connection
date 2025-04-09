@@ -1,16 +1,8 @@
-# flutter_nodejs
+Bu projede, Flutter çatısı kullanılarak geliştirilen mobil uygulamanın arka uç (backend) katmanı Node.js ortamında inşa edilmiştir. 
+Uygulamanın veri yönetimi ve iş mantığı süreçleri, REST API aracılığıyla MongoDB veritabanı üzerinde yapılandırılmıştır.
+Söz konusu proje, genel olarak bir ürün uygulaması olarak tanımlanabilir.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, the backend of the mobile application developed with Flutter was written using Node.js. 
+Leveraging REST API and MongoDB database technologies, this application can be described as a product application.
